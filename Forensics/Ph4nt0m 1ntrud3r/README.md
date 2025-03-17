@@ -21,6 +21,10 @@ Nice, now we know that the row with negative time value can be ignored.
 
 Then the flag pieces are hidden in the records with positive time values.
 
-Records 1, 10, 4, 18, 3, and 2.
+![image](https://github.com/user-attachments/assets/0e413ace-cdfb-40f6-ac70-fa6e90c63a82)
+
+Above shows the flag piece in record 1.
+
+Do the same thing to the rest of the records: 10, 4, 18, 3, and 2.
 
 Decode the flag pieces and get the complete flag.
