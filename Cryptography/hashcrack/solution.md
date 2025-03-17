@@ -11,9 +11,11 @@ First Attempt
 I found that MD5 is used to produce the hash and the password is "password123".
 
 Second Attempt
+
 SHA1: letmein
 
 Third Attempt
+
 SHA256: qwerty098
 
 Enter the password and get the flag.
