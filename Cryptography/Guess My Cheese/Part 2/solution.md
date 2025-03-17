@@ -7,7 +7,7 @@ Hints:
 
 ### The first challenge I give dislikes.
 
-The challenge isn't very hard, but took me 2 days to solve because of missing out something that the challenge doesn't clarify clearly (will be explained later). Otherwise can be solved within an hour.
+Because even I found the flag, the solution is not completed, only some hashes are matched.
 
 Download the cheese_list.txt from the challenge and connect to the program using the nc command given.
 
