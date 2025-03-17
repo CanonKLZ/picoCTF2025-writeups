@@ -1,2 +1,2 @@
 # picoCTF2025
-## My first CTF writeups
+My first CTF writeups
