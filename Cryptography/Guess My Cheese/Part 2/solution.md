@@ -13,7 +13,7 @@ Download the cheese_list.txt from the challenge and connect to the program using
 
 ![image](https://github.com/user-attachments/assets/396b8bb4-290c-4b83-981e-b3ffec4b8330)
 
-The mouse provided me a secret cheese, a SHA256 hash (matched hint 1). Then according to hint 2, the hash was produced using the cheese name from chees_list.txt, hashed with sha256 hash algorithm with a 2 nibbles of hex-character salt (meaning: a byte == two hexadecimal characters). 
+The mouse provided me a secret cheese, a SHA256 hash (matched hint 1). Then according to hint 2, the hash was produced using the cheese name from cheese_list.txt, hashed with sha256 hash algorithm with a 2 nibbles of hex-character salt (meaning: a byte == two hexadecimal characters). 
 
 -> SHA256(Cheese name + 2 hexadecimal characters)
 
