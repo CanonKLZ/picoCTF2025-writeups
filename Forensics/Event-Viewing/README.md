@@ -1,6 +1,6 @@
-![image](https://github.com/user-attachments/assets/5bae6c62-e061-4554-baee-e8728d87e969)# Event-Viewing
+# Event-Viewing
 
-
+![image](https://github.com/user-attachments/assets/5bae6c62-e061-4554-baee-e8728d87e969)
 
 ## Description
 One of the employees at your company has their computer infected by malware! Turns out every time they try to switch on the computer, it shuts down right after they log in. 
