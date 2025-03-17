@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/4c562c5e-f23b-4145-92a2-ae00104a65ca)![image](https://github.com/user-attachments/assets/34854329-e06c-4ff6-acdc-145dd6bf50f3)
+![image](https://github.com/user-attachments/assets/c7f88afa-35b4-4f93-9812-4c1dfc4c1e03)
 
 Hints:
 1. Remember that cipher we devised together Squeexy? The one that incorporates your affinity for linear equations???
