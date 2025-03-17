@@ -9,4 +9,4 @@ I get the flag using a common stegno tool, zsteg
 
 ![image](https://github.com/user-attachments/assets/a2eb9c5c-48aa-4050-9c6d-a2c93cb839ed)
 
-Decode and get the flag from the text section.
+Decode and get the flag.
