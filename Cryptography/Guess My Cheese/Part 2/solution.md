@@ -41,4 +41,4 @@ Then using the findings, you can create script(s) to compute a rainbow table.
 Then guess the cheese by searching the hash provided by the mouse using the rainbow table. Enter the cheese name and the salt to get the flag.
 
 ## My feedback
-I understood that creating a CTF challenge is not an easy job and is hoping players can enjoy. But, if possible, make sure to do careful examination. Still, this is a good challenge. Bravo!
+The solution is incompleted, will update later when I figure out the real solution.
