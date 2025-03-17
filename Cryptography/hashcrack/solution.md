@@ -7,15 +7,13 @@ Hints:
 
 Not hard, you just need to determine the type of hash algorithm used for this challenge.
 
-First Attempt
+### First Attempt
 I found that MD5 is used to produce the hash and the password is "password123".
 
-Second Attempt
-
+### Second Attempt
 SHA1: letmein
 
-Third Attempt
-
+### Third Attempt
 SHA256: qwerty098
 
 Enter the password and get the flag.
