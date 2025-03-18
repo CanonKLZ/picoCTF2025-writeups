@@ -27,15 +27,16 @@ Pretty simple, the produced hash is computed using sha256 algorithm with 2 hex c
 2. How the salt is added before hashing? Does it put at the front (Prefix), put at the end (Postfix) or both?
 3. The salt added is in lowercase, uppercase, or both? (Eg: ab, AB, aB or Ab)
 
-### So, can only assuming
-Since this is a writeups, I just provided my findings:
-1. Before the hash is produced, the cheese name MUST be in lowercase and WITHOUT any whitespace, remain the special symbols.
-2. Salt is added at the end (Postfix)
-3. Salt added is in UPPERCASE as predefined in Hexadecimal characters list.
+### Before obtaining updated findings (Reason I cannot get the solid solution)
+I appended cheese with the decoded salt raw bytes using latin1 encoding.
+
+### Updated findings
+1. Before the hash is produced, the cheese name MUST be in lowercase, remain the whitespace and special symbols, and convert to bytes using UTF-8 encoding.
+2. Salt is added at the end (Postfix) and as raw bytes.
 
 Then using the findings, you can create script(s) to compute a rainbow table.
 
 Then guess the cheese by searching the hash provided by the mouse using the rainbow table. Enter the cheese name and the salt to get the flag.
 
 ## My feedback
-The solution is incompleted, will update later when I figure out the real solution.
+Updated: Solution found thanks to writeups provided by 0xSherfa (https://medium.com/@ahmedgamer250/picoctf-2025-writeups-by-0xsherfa-96b348942348).
