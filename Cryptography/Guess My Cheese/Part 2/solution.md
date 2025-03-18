@@ -5,7 +5,7 @@ Hints:
 2. Remember Squeexy, we enjoy our cheese with exactly 2 nibbles of hexadecimal-character salt!
 3. Ever heard of rainbow tables?
 
-### Steps
+### Challenge Analysis
 Download the cheese_list.txt from the challenge and connect to the program using the nc command given.
 
 ![image](https://github.com/user-attachments/assets/396b8bb4-290c-4b83-981e-b3ffec4b8330)
