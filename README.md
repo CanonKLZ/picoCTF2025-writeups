@@ -1,2 +1,1 @@
-# picoCTF2025
-My first CTF writeups for my own references. 
+My first CTF writeups as my own references/notes. 
