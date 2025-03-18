@@ -1,3 +1,5 @@
+Updated: Solution found thanks to writeups provided by 0xSherfa (https://medium.com/@ahmedgamer250/picoctf-2025-writeups-by-0xsherfa-96b348942348).
+
 ![image](https://github.com/user-attachments/assets/730378af-a81e-4a02-bb5b-2972276650b3)
 
 Hints:
@@ -42,6 +44,3 @@ Then guess the cheese by searching the hash provided by the mouse using the rain
 1. Download cheese_list.txt, rainbow_table.py and salts.py files, put them together in a single folder.
 2. Run salts.py
 3. Run rainbow_table.py
-
-## My feedback
-Updated: Solution found thanks to writeups provided by 0xSherfa (https://medium.com/@ahmedgamer250/picoctf-2025-writeups-by-0xsherfa-96b348942348).
