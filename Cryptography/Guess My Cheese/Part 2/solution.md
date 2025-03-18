@@ -33,7 +33,7 @@ Pretty simple, the produced hash is computed using sha256 algorithm with 2 hex c
 I appended cheese with the decoded salt raw bytes using latin1 encoding. (You can view from rainbow_table_original.py)
 
 ### Updated findings
-1. Before the hash is produced, the cheese name MUST be in lowercase, remain the whitespace and special symbols, and convert to bytes using UTF-8 encoding.
+1. Before the hash is produced, the cheese name MUST be in lowercase, remain the whitespace and special symbols, and convert to bytes.
 2. Salt needed to be converted to raw bytes before append to the end of cheese bytes.
 
 Then using the findings, you can create script(s) to compute a rainbow table.
