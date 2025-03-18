@@ -28,7 +28,7 @@ Pretty simple, the produced hash is computed using sha256 algorithm with 2 hex c
 3. The salt added is in lowercase, uppercase, or both? (Eg: ab, AB, aB or Ab)
 
 ### Before obtaining updated findings (Reason I cannot get the solid solution)
-I appended cheese with the decoded salt raw bytes using latin1 encoding.
+I appended cheese with the decoded salt raw bytes using latin1 encoding. (You can view from rainbow_table_original.py)
 
 ### Updated findings
 1. Before the hash is produced, the cheese name MUST be in lowercase, remain the whitespace and special symbols, and convert to bytes using UTF-8 encoding.
