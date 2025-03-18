@@ -38,5 +38,10 @@ Then using the findings, you can create script(s) to compute a rainbow table.
 
 Then guess the cheese by searching the hash provided by the mouse using the rainbow table. Enter the cheese name and the salt to get the flag.
 
+### Steps if want to use my solution
+1. Download cheese_list.txt, rainbow_table.py and salts.py files, put them together in a single folder.
+2. Run salts.py
+3. Run rainbow_table.py
+
 ## My feedback
 Updated: Solution found thanks to writeups provided by 0xSherfa (https://medium.com/@ahmedgamer250/picoctf-2025-writeups-by-0xsherfa-96b348942348).
