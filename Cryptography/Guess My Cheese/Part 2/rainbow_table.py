@@ -2,8 +2,7 @@ import hashlib
 import hmac
 
 def hash_cheese_with_salt(cheese, salt):
-    cheese_wh = cheese.replace(" ","")
-    salted_cheese = cheese_wh.lower() + bytes.fromhex(salt).decode('latin1')
+    salted_cheese = cheese.lower().encode('utf-8') + bytes.fromhex(salt).decode('latin1')
     return hashlib.sha256(salted_cheese.encode()).hexdigest()
 
 def load_cheese_names(file_path):
